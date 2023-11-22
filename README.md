@@ -1,5 +1,5 @@
 # 韦佳
-![个人照片](img src="images/homepage_pic.jpg" alt="Homepage" width="120" height="150" title="个人照片")
+<img src="images/homepage_pic.jpg" alt="Homepage" width="120" height="150" title="个人照片">
 
 ## 个人介绍
 
