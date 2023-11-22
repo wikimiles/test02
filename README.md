@@ -1,5 +1,5 @@
 # 韦佳
-![个人照片](https://github.com/wikimiles/test02/blob/main/%E4%B8%AA%E4%BA%BA%E7%85%A7%E7%89%87.jpg?raw=true width="120" height="150")
+![个人照片](img src="images/homepage_pic.jpg" alt="Homepage" width="120" height="150" title="个人照片")
 
 ## 个人介绍
 
